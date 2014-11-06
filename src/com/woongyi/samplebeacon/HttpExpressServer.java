@@ -16,7 +16,7 @@ import org.json.JSONObject;
 import android.util.Log;
 
 public class HttpExpressServer {
-	private String url_host = "http://54.64.128.28:1300/";
+	private String url_host = "http://127.0.0.1:1300/";
 
 	public HttpExpressServer() {
 		
